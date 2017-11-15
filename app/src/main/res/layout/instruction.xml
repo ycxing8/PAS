@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="先点击建立连接，输入IP、端口，如果使用默认IP、端口，直接点击确认并连接按钮，再点击设置报警参数，设置报警距离、报警速度后点确定，即可。"
+        android:textSize="30dp"
+        android:textColor="#ff5e9cff"
+        android:id="@+id/textView6" />
+</LinearLayout>
